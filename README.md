@@ -1,99 +1,103 @@
 # Arman Rajeshprasad Tiwari
 
-Welcome to my GitHub profile! I'm a passionate B.Tech student pursuing Computer Science Engineering with a focus on Data Science. I love working on projects related to machine learning, AI, and full-stack development. I'm always eager to learn new technologies and collaborate on exciting projects.
-3
+Welcome to my GitHub profile! I am an enthusiastic and dedicated **B.Tech student** specializing in **Computer Science Engineering with a focus on Data Science**. Passionate about solving complex problems, I excel in **Machine Learning**, **AI**, and **Full-Stack Development**. I thrive on continuously learning new technologies and collaborating on innovative projects.
+
 ## About Me
 
-- 🔭 I’m currently working on projects related to **Machine Learning** and **Deep Learning**.
-- 🌱 I’m currently learning **Deep Learning**, **Cloud Computing**, and **Machine Learning**.
-- 📚 I’m studying **B.Tech in Computer Science Engineering with Specialization in Data Science** at **Ramdeobaba College of Engineering and Management**, Nagpur.
-- 🎯 I'm looking for **internships** and **collaboration opportunities** in **Machine Learning**, **Cloud Engineering**, and **Data Analysis**.
-- 💬 Ask me about anything related to **Programming**, **Data Analysis**, or **Machine Learning**.
-- 📫 How to reach me: [tiwariar_9@rknec.edu](mailto:tiwariar_9@rknec.edu).
+- 🔭 **Currently developing** cutting-edge projects in **Machine Learning** and **Deep Learning**.
+- 🌱 **Deepening expertise** in **Deep Learning**, **Cloud Computing**, and **Machine Learning**.
+- 📚 **Pursuing** a **B.Tech in Computer Science Engineering** with a **Specialization in Data Science** at **Ramdeobaba College of Engineering and Management**, Nagpur.
+- 🎯 **Seeking exciting internships** and **collaborations** in **Machine Learning**, **Cloud Engineering**, and **Data Analysis**.
+- 💬 **Feel free to ask** about anything related to **Programming**, **Data Science**, or **Machine Learning**.
+- 📫 **Reach me at**: [tiwariar_9@rknec.edu](mailto:tiwariar_9@rknec.edu).
 
 ## 🔧 Technologies & Tools
 
-- **Programming Languages**: Java, Python, C, SQL
-- **Web Development**: React.js, HTML, CSS, JavaScript, Spring Boot
-- **Machine Learning & AI**: Scikit-Learn, TensorFlow, Keras, PyTorch
-- **Tools & Platforms**: Git, GitHub, AWS, Docker
-- **Database**: MySQL, PostgreSQL
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+- ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## Projects
+## 🚀 Projects
 
 ### 1. **ML Mini Projects**
 
-Welcome to my **ML-Mini-Projects** repository! This repository is a collection of machine learning projects that I have developed, designed, and implemented to solve various real-world problems using data and machine learning algorithms. From predicting diseases and detecting fraud, to identifying handwritten digits and predicting rainfall, this repository demonstrates the versatility of machine learning techniques across a range of domains.
+Welcome to my **ML-Mini-Projects** repository! This collection showcases my ability to apply **Machine Learning** to solve real-world challenges across various domains. These projects reflect my proficiency in developing intelligent models for real-time predictions, data analysis, and problem-solving.
 
 #### Projects Overview
 
-- **Heart Disease Predictor**: A predictive model using machine learning to detect the likelihood of heart disease based on various health features. Includes a Flask web application for real-time prediction.
-- **Disease Predictor**: An ML model designed to predict various diseases based on input symptoms and parameters.
-- **Credit Card Fraud Detector**: An algorithm to detect fraudulent credit card transactions using data science techniques.
-- **Fake News Detector**: A machine learning model for detecting fake news articles based on textual analysis.
-- **Rainfall Predictor**: A model to forecast rainfall based on historical weather data.
-- **Housing Price Predictor**: A regression model to predict house prices based on various features like location, size, etc.
-- **Calories Burnt Predictor**: A model predicting the number of calories burnt during a workout based on various parameters.
-- **Human Activity Recognizer**: A machine learning model to recognize human activities from sensor data.
-- **Crop Yield Predictor**: Predicts crop yields based on environmental and farming parameters.
-- **Solar Irradiance Predictor**: Predicts solar irradiance based on weather patterns and historical data.
-- **Titanic Survivor Classifier**: A model to predict the survival of passengers aboard the Titanic.
-- **PUBG Game Predictor**: Predicts the outcome of PUBG matches based on various in-game parameters.
-- **MNIST Handwritten Digit Recognizer**: A model to recognize handwritten digits from the famous MNIST dataset.
+- **Heart Disease Predictor**: Predicts the likelihood of heart disease using health data, with a **Flask** web application for real-time predictions.
+- **Disease Predictor**: A predictive model that identifies various diseases based on user input and symptoms.
+- **Credit Card Fraud Detector**: An algorithm that detects fraudulent transactions using advanced data science techniques.
+- **Fake News Detector**: Detects fake news articles through **textual analysis** and **machine learning**.
+- **Rainfall Predictor**: Predicts rainfall based on historical weather data.
+- **Housing Price Predictor**: A regression model predicting house prices based on key features like location and size.
+- **Calories Burnt Predictor**: Estimates calories burnt during workouts, factoring in exercise data.
+- **Human Activity Recognizer**: Recognizes human activities based on sensor data.
+- **Crop Yield Predictor**: Predicts agricultural yield based on environmental factors.
+- **Solar Irradiance Predictor**: Estimates solar irradiance based on weather conditions and historical data.
+- **Titanic Survivor Classifier**: Predicts survival probabilities of Titanic passengers.
+- **PUBG Game Predictor**: Forecasts PUBG match outcomes based on in-game statistics.
+- **MNIST Handwritten Digit Recognizer**: Recognizes handwritten digits from the **MNIST** dataset using neural networks.
 
 ---
 
 ### 2. **PUBG_Analyzer 🎮**
 
-PUBG_Analyzer is a dynamic performance analysis tool designed for competitive gamers. By analyzing gameplay data, it calculates key metrics, assesses player performance, and provides actionable recommendations to improve gameplay strategies.
+**PUBG_Analyzer** is a powerful tool designed for **competitive gamers** to analyze their performance in **PUBG**. It calculates key metrics, evaluates gameplay strategies, and provides actionable recommendations to elevate gaming skills.
 
 #### Features
 
 - **Performance Metrics Analysis**:
-  - **Kill Efficiency**: Measures how effectively kills and damage are secured.
-  - **Movement Score**: Evaluates diverse and efficient map traversal.
-  - **Survival Score**: Assesses healing efficiency and durability in matches.
-  - **Support Score**: Tracks team play contributions like assists and revives.
-  
-- **Performance Assessment**:
-  Categorizes players into tiers:
-  - Exceptional
-  - Above Average
-  - Average
-  - Needs Improvement
-  
-- **Personalized Recommendations**:
-  - Tailored suggestions to improve gameplay weaknesses.
-  - Covers aiming, movement, healing, and team play strategies.
+  - **Kill Efficiency**: Measures kill-to-damage ratio.
+  - **Movement Score**: Assesses efficiency in traversing the map.
+  - **Survival Score**: Evaluates healing and survival strategies during matches.
+  - **Support Score**: Tracks team play and support, such as assists and revives.
+
+- **Personalized Recommendations**: 
+  - Tailored suggestions to **optimize** gameplay weaknesses.
+  - **In-depth feedback** on aiming, movement, healing, and teamwork strategies.
 
 #### Technology Stack
 
 - **Language**: TypeScript
 - **Environment**: Node.js
-- **Input**: Structured gameplay data (kills, assists, distances, etc.)
+- **Data Input**: Structured gameplay data (kills, assists, distances, etc.)
 
 ---
 
 ### 3. **Java Projects**
 
-This folder contains various Java projects showcasing basic to intermediate programming skills, designed to solve real-world problems.
+This folder contains **Java-based solutions** to various practical problems, demonstrating a wide array of basic to advanced programming concepts.
 
-- **AtmInterface.java**: A simple ATM interface system that simulates basic ATM operations.
-- **CurrencyConverter.java**: A program to convert currency values based on exchange rates.
-- **NotesApp.java**: A notes application with basic CRUD functionalities.
-- **NumberGame.java**: A number guessing game that generates random numbers.
-- **STUDENTGRADECALCULATOR.java**: A program to calculate student grades based on marks.
-- **STUDENTMANAGEMENTSYSTEM.java**: A basic student management system with functionalities like adding, deleting, and updating student records.
-- **chromeTREXgame.java**: A simple implementation of the Chrome T-Rex game using Java.
+- **AtmInterface.java**: Simulates basic **ATM operations**.
+- **CurrencyConverter.java**: Converts currency values based on real-time exchange rates.
+- **NotesApp.java**: A note-taking application with **CRUD** functionalities.
+- **NumberGame.java**: A number-guessing game with randomly generated numbers.
+- **STUDENTGRADECALCULATOR.java**: Calculates student grades based on marks.
+- **STUDENTMANAGEMENTSYSTEM.java**: A student management system with basic record-keeping functionalities.
+- **chromeTREXgame.java**: A Java-based **Chrome T-Rex** game implementation.
 
-## 📝 Blog Posts
+## 🧠 Pronouns
+He/Him
 
-- [How Data Breaches Occur and Are Discovered](#)
-- [Getting Started with Deep Learning in Python](#)
-
-## 📈 GitHub Stats
+### GitHub Stats
 
 ![Arman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiwariar7&show_icons=true&hide_title=true&hide=prs)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=tiwariar7&theme=default&hide_title=true&background=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiwariar7&layout=compact&theme=default&bg_color=ffffff&langs_count=5)
+
+## 🏆 GitHub Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tiwariar7&theme=flat&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📣 Let's Connect
 
@@ -103,4 +107,4 @@ This folder contains various Java projects showcasing basic to intermediate prog
 
 ---
 
-> "The journey of a thousand miles begins with a single step." - Lao Tzu
+> "The journey of a thousand miles begins with a single step." – **Lao Tzu**
