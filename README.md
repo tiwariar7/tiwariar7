@@ -12,15 +12,6 @@ Welcome to my GitHub profile! I am an enthusiastic and dedicated **B.Tech studen
 - 📫 **Reach me at**: [tiwariar_9@rknec.edu](mailto:tiwariar_9@rknec.edu).
 
 
-## GitHub Badges
-
-[![GitHub release](https://img.shields.io/github/v/release/tiwariar7/tiwariar7)](https://github.com/tiwariar7/repository/releases)
-[![GitHub issues](https://img.shields.io/github/issues/tiwariar7/tiwariar7)](https://github.com/tiwariar7/repository/issues)
-[![GitHub forks](https://img.shields.io/github/forks/tiwariar7/tiwariar7)](https://github.com/tiwariar7/repository/network)
-[![GitHub stars](https://img.shields.io/github/stars/tiwariar7/tiwariar7)](https://github.com/tiwariar7/repository/stargazers)
-[![GitHub license](https://img.shields.io/github/license/tiwariar7/tiwariar7)](https://github.com/tiwariar7/repository/blob/main/LICENSE)
-
-
 ## 🔧 Technologies & Tools
 
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
