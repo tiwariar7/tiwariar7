@@ -96,18 +96,11 @@ He/Him
     <br />
     <img src="https://github-readme-stats.vercel.app/api?username=tiwariar7&show_icons=true&hide_border=true" alt="Arman Tiwari's GitHub Stats">
     <br />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiwariar7&theme=default&hide_title=true" alt="Streak-Stats">
+    <br />  
     <img src="https://visitor-badge.laobi.icu/badge?page_id=tiwariar7.tiwariar7" alt="visitors">
 </div>
 
-![Arman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiwariar7&show_icons=true&hide_title=true&hide=prs)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=tiwariar7&theme=default&hide_title=true&background=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiwariar7&layout=compact&theme=default&bg_color=ffffff&langs_count=5)
-
-## 🏆 GitHub Profile Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=tiwariar7&theme=flat&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📣 Let's Connect
 
