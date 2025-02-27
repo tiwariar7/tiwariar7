@@ -118,6 +118,9 @@ He/Him
     </tr>
     <tr>
       <td colspan="2" style="padding-top: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tiwariar7&layout=compact" alt="WakaTime Stats" />
+      </td>
+      <td colspan="2" style="padding-top: 10px;">
         <img src="https://visitor-badge.laobi.icu/badge?page_id=tiwariar7.tiwariar7" alt="Visitor Badge" />
       </td>
     </tr>
