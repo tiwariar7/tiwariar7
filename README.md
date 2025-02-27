@@ -100,6 +100,8 @@ He/Him
     <br /> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiwariar7&layout=compact" alt="Top Languages" />
     <br /> 
+    <img src="https://activity-graph.herokuapp.com/graph?username=tiwariar7&theme=github" alt="GitHub Activity Graph" />
+    <br /> 
     <img src="https://visitor-badge.laobi.icu/badge?page_id=tiwariar7.tiwariar7" alt="visitors">
 </div>
 
