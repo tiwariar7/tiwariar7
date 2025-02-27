@@ -89,6 +89,15 @@ This folder contains **Java-based solutions** to various practical problems, dem
 He/Him
 
 ### GitHub Stats
+## 📈 Stats
+
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=tiwariar7&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api?username=tiwariar7&show_icons=true&hide_border=true" alt="Arman Tiwari's GitHub Stats">
+    <br />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=tiwariar7.tiwariar7" alt="visitors">
+</div>
 
 ![Arman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiwariar7&show_icons=true&hide_title=true&hide=prs)
 
