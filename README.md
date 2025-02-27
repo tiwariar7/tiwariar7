@@ -92,10 +92,8 @@ He/Him
 ## 📈 Stats
 
 <div align="center">
-
   <h2>📈 My GitHub Stats</h2>
   <hr style="width:80%; margin: 20px auto;">
-
   <table>
     <tr>
       <td colspan="2">
@@ -123,11 +121,10 @@ He/Him
         <img src="https://visitor-badge.laobi.icu/badge?page_id=tiwariar7.tiwariar7" alt="Visitor Badge" />
       </td>
     </tr>
-  </table>
-  
+  </table>  
 </div>
 
-
+---
 
 ## 📣 Let's Connect
 
