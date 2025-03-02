@@ -54,7 +54,7 @@ He/Him
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiwariar7&layout=compact" alt="Top Languages" />
       </td>
       <td style="padding: 10px;">
-        ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=tiwariar7&theme=github)
+        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tiwariar7&theme=github" alt="Activity Graph" />
       </td>
     </tr>
     <tr>
@@ -64,6 +64,7 @@ He/Him
     </tr>
   </table>  
 </div>
+
 
 ---
 
