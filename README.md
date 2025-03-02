@@ -25,65 +25,6 @@ Welcome to my GitHub profile! I am an enthusiastic and dedicated **B.Tech studen
 - ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 🚀 Projects
-
-### 1. **ML Mini Projects**
-
-Welcome to my **ML-Mini-Projects** repository! This collection showcases my ability to apply **Machine Learning** to solve real-world challenges across various domains. These projects reflect my proficiency in developing intelligent models for real-time predictions, data analysis, and problem-solving.
-
-#### Projects Overview
-
-- **Heart Disease Predictor**: Predicts the likelihood of heart disease using health data, with a **Flask** web application for real-time predictions.
-- **Disease Predictor**: A predictive model that identifies various diseases based on user input and symptoms.
-- **Credit Card Fraud Detector**: An algorithm that detects fraudulent transactions using advanced data science techniques.
-- **Fake News Detector**: Detects fake news articles through **textual analysis** and **machine learning**.
-- **Rainfall Predictor**: Predicts rainfall based on historical weather data.
-- **Housing Price Predictor**: A regression model predicting house prices based on key features like location and size.
-- **Calories Burnt Predictor**: Estimates calories burnt during workouts, factoring in exercise data.
-- **Human Activity Recognizer**: Recognizes human activities based on sensor data.
-- **Crop Yield Predictor**: Predicts agricultural yield based on environmental factors.
-- **Solar Irradiance Predictor**: Estimates solar irradiance based on weather conditions and historical data.
-- **Titanic Survivor Classifier**: Predicts survival probabilities of Titanic passengers.
-- **PUBG Game Predictor**: Forecasts PUBG match outcomes based on in-game statistics.
-- **MNIST Handwritten Digit Recognizer**: Recognizes handwritten digits from the **MNIST** dataset using neural networks.
-
----
-
-### 2. **PUBG_Analyzer 🎮**
-
-**PUBG_Analyzer** is a powerful tool designed for **competitive gamers** to analyze their performance in **PUBG**. It calculates key metrics, evaluates gameplay strategies, and provides actionable recommendations to elevate gaming skills.
-
-#### Features
-
-- **Performance Metrics Analysis**:
-  - **Kill Efficiency**: Measures kill-to-damage ratio.
-  - **Movement Score**: Assesses efficiency in traversing the map.
-  - **Survival Score**: Evaluates healing and survival strategies during matches.
-  - **Support Score**: Tracks team play and support, such as assists and revives.
-
-- **Personalized Recommendations**: 
-  - Tailored suggestions to **optimize** gameplay weaknesses.
-  - **In-depth feedback** on aiming, movement, healing, and teamwork strategies.
-
-#### Technology Stack
-
-- **Language**: TypeScript
-- **Environment**: Node.js
-- **Data Input**: Structured gameplay data (kills, assists, distances, etc.)
-
----
-
-### 3. **Java Projects**
-
-This folder contains **Java-based solutions** to various practical problems, demonstrating a wide array of basic to advanced programming concepts.
-
-- **AtmInterface.java**: Simulates basic **ATM operations**.
-- **CurrencyConverter.java**: Converts currency values based on real-time exchange rates.
-- **NotesApp.java**: A note-taking application with **CRUD** functionalities.
-- **NumberGame.java**: A number-guessing game with randomly generated numbers.
-- **STUDENTGRADECALCULATOR.java**: Calculates student grades based on marks.
-- **STUDENTMANAGEMENTSYSTEM.java**: A student management system with basic record-keeping functionalities.
-- **chromeTREXgame.java**: A Java-based **Chrome T-Rex** game implementation.
 
 ## 🧠 Pronouns
 He/Him
@@ -113,7 +54,7 @@ He/Him
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiwariar7&layout=compact" alt="Top Languages" />
       </td>
       <td style="padding: 10px;">
-        <img src="https://activity-graph.herokuapp.com/graph?username=tiwariar7&theme=github" alt="Activity Graph" />
+        ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=tiwariar7&theme=github)
       </td>
     </tr>
     <tr>
