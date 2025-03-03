@@ -38,7 +38,7 @@ He/Him
   <table>
     <tr>
       <td colspan="2">
-        <img src="https://github-profile-trophy.vercel.app/?username=tiwariar7&row=1&column=10&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="Profile Trophies" />
+        <img src="https://github-profile-trophy.vercel.app/?username=tiwariar7&row=1&column=8&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="Profile Trophies" />
       </td>
     </tr>
     <tr>
