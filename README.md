@@ -65,7 +65,6 @@ He/Him
   </table>  
 </div>
 
-
 ---
 
 ## 📣 Let's Connect
