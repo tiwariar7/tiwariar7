@@ -17,8 +17,6 @@ Welcome to my GitHub profile! I am an enthusiastic and dedicated **B.Tech studen
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-## 🧠 Pronouns
-He/Him
 
 ### GitHub Stats
 ## 📈 Stats
