@@ -2,15 +2,6 @@
 
 Welcome to my GitHub profile! I am an enthusiastic and dedicated **B.Tech student** specializing in **Computer Science Engineering with a focus on Data Science**. Passionate about solving complex problems, I excel in **Machine Learning**, **AI**, and **Full-Stack Development**. I thrive on continuously learning new technologies and collaborating on innovative projects.
 
-## About Me
-
-- 🔭 **Currently developing** cutting-edge projects in **Machine Learning** and **Deep Learning**.
-- 🌱 **Deepening expertise** in **Deep Learning**, and **Machine Learning**.
-- 📚 **Pursuing** a **B.Tech in Computer Science Engineering** with a **Specialization in Data Science** at **Ramdeobaba College of Engineering and Management**, Nagpur.
-- 🎯 **Seeking exciting internships** and **collaborations** in **Machine Learning**, **Cloud Engineering**, and **Data Analysis**.
-- 💬 **Feel free to ask** about anything related to **Programming**, **Data Science**, or **Machine Learning**.
-- 📫 **Reach me at**: [tiwariar_9@rknec.edu](mailto:tiwariar_9@rknec.edu).
-
 
 ## 🔧 Technologies & Tools
 
