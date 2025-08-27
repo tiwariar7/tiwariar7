@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I am an enthusiastic and dedicated **B.Tech studen
 
 ## 📣 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/arman-rajeshprasad-tiwari-119231289/)
+- [LinkedIn](https://www.linkedin.com/in/tiwariar7/)
 - [GitHub](https://github.com/tiwariar7)
 - [Email](mailto:tiwariar_9@rknec.edu)
 
