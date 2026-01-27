@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I am an enthusiastic and dedicated **B.Tech studen
     </tr>
     <tr>
       <td style="padding: 10px;">
-        <img src="![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiwariar7&show_icons=true&hide_border=true" alt="GitHub Stats" />
+        <img src="![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiwariar7)&show_icons=true&hide_border=true" alt="GitHub Stats" />
       </td>
       <td style="padding: 10px;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiwariar7&theme=default&hide_title=true" alt="Streak Stats" />
