@@ -3,10 +3,10 @@
 Welcome to my GitHub profile! I am an enthusiastic and dedicated **B.Tech student** specializing in **Computer Science Engineering with a focus on Data Science**. Passionate about solving complex problems, I excel in **Machine Learning**, **AI**, and **Full-Stack Development**. I thrive on continuously learning new technologies and collaborating on innovative projects.
 
 ### GitHub Stats
-## 📈 Stats
+## Stats
 
 <div align="center">
-  <h2>📈 My GitHub Stats</h2>
+  <h2>My GitHub Stats</h2>
   <hr style="width:80%; margin: 20px auto;">
   <table>
     <tr>
@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I am an enthusiastic and dedicated **B.Tech studen
 
 ---
 
-## 📣 Let's Connect
+## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/tiwariar7/)
 - [GitHub](https://github.com/tiwariar7)
