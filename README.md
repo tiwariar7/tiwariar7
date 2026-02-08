@@ -2,7 +2,6 @@
 
 Welcome to my GitHub profile! I am an enthusiastic and dedicated **B.Tech student** specializing in **Computer Science Engineering with a focus on Data Science**. Passionate about solving complex problems, I excel in **Machine Learning**, **AI**, and **Full-Stack Development**. I thrive on continuously learning new technologies and collaborating on innovative projects.
 
-
 ### GitHub Stats
 ## 📈 Stats
 
